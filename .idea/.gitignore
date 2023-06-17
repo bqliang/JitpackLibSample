@@ -1,0 +1,6 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+
+# git-toolbox plugin
+/git_toolbox_prj.xml
